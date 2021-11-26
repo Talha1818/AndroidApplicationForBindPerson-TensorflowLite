@@ -13,3 +13,5 @@ Object Detection and Sound Recognition for Blind Person, as I have named my proj
 ![f1](https://user-images.githubusercontent.com/65563164/143613765-4f45da6c-b248-42b3-b5dc-9d16ca29b885.PNG)<br>
 ## Overall Graphs<br>
 ![overall](https://user-images.githubusercontent.com/65563164/143613746-16ccae0e-d768-4c9f-8a9b-09279dd263bb.PNG)<br>
+## Watch the Output Video<br>
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=RYbxAj2YYX0)
