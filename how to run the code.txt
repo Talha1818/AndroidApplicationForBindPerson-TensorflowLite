@@ -1,0 +1,6 @@
+Step 1- Open the Google Colab
+Step 2- Upload the jupyter notebook that mention in this folder
+Step 3- Download the dataset from my drive (https://drive.google.com/drive/u/0/folders/131K5SzZF5h1OMCWxw1sfP2bRxRl1oFQc)
+Step 4- Upload the dataset onto own drive
+Step 5- Set the dataset path in jupyter notebook
+Step 6- Run the notebook 
