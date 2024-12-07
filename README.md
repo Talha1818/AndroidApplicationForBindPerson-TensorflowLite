@@ -1,6 +1,10 @@
 # AndroidApplicationForBindPerson-TensorflowLite
 Object Detection and Sound Recognition for Blind Person, as I have named my project name, is a mobile (Android) application which will help the blind person in figuring out the location of an object and guide the person with voice assistance towards it. The application makes use of artificial intelligence and deep learning to detect objects.<br>
 
+## 📊 Dataset  
+You can access the dataset I'm working on using the following link:  
+[Download Dataset](https://drive.google.com/file/d/1-DooMojQCLHhgadrfb-OLfT7QGUorHZn/view?usp=drive_link)
+
 ## Accuracy<br>
 ![accuracy](https://user-images.githubusercontent.com/65563164/143613763-c5d49ad3-a127-4262-bd8f-d9fe86c8c2c7.PNG)<br>
 ## Loss<br>
